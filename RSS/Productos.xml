@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <rss version="2.0">
+    <channel>
+      <title>Feed RSS de Final Fantasy X</title>
+      <description>Ultimos productos Final Fantasy X</description>
+      
+      
+      <!-- 1º ítem -->
+      <item>
+        <title>Figura Coleccionables</title>
+        <description>Figura edición limitada TIDUS</description>
+        <pubDate>Viernes, 12 Mar 2024 08:00:00 </pubDate>
+        <category>Figura</category>
+        <image>
+        <url>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSru8Vr6oAEevM5SLiEuT6zrFJV-LmhjACPqw&amp;s</url>
+        </image>
+      </item>
+      
+      <!-- 2º ítem -->
+      <item>
+        <title>Figura Coleccionable</title>
+        <description></description>
+        <pubDate>Jueves, 11 Mar 2024 10:00:00 </pubDate>
+        <category>Figura</category>
+        <image>
+          <url>https://www.kiwiku.com/1681-large_default/figura-final-fantasy-mechanical-arts-circus.jpg</url>
+          <title>Figura Barco Volador</title>
+        </image>
+      </item>
+      
+      <!-- 3º ítem -->
+      <item>
+        <title>Suscripción revista ff10</title>
+        <description>Descubre como se fue crenado el juego y conoce a sus desarrolladores</description>
+        <pubDate>Miercoles, 10 Mar 2024 12:00:00 </pubDate>
+        <category>Revista</category>
+        <image>
+          <url>https://imgs.search.brave.com/ytRTSB5jTt8ffv3YZthb9-D-9fHkgOaV13vfIEzz5Vo/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9odHRw/Mi5tbHN0YXRpYy5j/b20vRF9OUV9OUF84/MjU3NjgtTUxCNDU2/NzY5ODM5MzJfMDQy/MDIxLVYud2VicA</url>
+          <title>Revista FFX</title>
+        </image>
+      </item>
+      
+    </channel>
+  </rss>
